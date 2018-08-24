@@ -1,4 +1,4 @@
-# dienstboerse [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# dienstboerse [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 UKGM Anästhesie Dienstbörse
 
 Übersichtliche Darstellung von Dienstübernahmegesuchen zur Steigerung der Erfolgschancen.
@@ -14,11 +14,11 @@ UKGM Anästhesie Dienstbörse
 1. Abschließend den Hinzufügen-Button klicken.
 
 **Versionsgeschichte:**
+* v0.4 == RC1: 24.08.18
+
+* v0.3: 24.08.18
 * v0.2: 23.08.18
 * v0.1: 22.08.18
-
-**Tech:**
-Python, Flask, Werkzeug, Jinja, SQLalchemy, Google Services
 
 Lust mitzumachen? Bock auf ne eigene Fork?
 1. Neues virtualenv aufsetzen.
