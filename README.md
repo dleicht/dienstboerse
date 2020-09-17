@@ -1,5 +1,6 @@
-# 
-# Am 18.09.2020 geht die Dienstbörse bis auf Weiteres offline.
+# Offline
+
+> Am 18.09.2020 geht die Dienstbörse bis auf Weiteres offline.
 
 **Versionsgeschichte:**
 * v1.1: 30.08.18
