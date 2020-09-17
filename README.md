@@ -1,9 +1,4 @@
-# UKGM Dienstboerse [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-Dienstbörsen WebApp für die Abteilung der Anästhesiologie am Universitätsklinikum Gießen.
-
-Übersichtliche Darstellung von Dienstübernahmegesuchen zur Steigerung der Erfolgschancen.
-
-> # Am 18.09.2020 geht die Dienstbörse bis auf Weiteres offline.
+# Am 18.09.2020 geht die Dienstbörse bis auf Weiteres offline.
 
 **Versionsgeschichte:**
 * v1.1: 30.08.18
